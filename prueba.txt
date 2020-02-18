@@ -1,0 +1,2 @@
+Joaquin;Alonso;profesor;42
+Manuel;Martinez;alumno;33
