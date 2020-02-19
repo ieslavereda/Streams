@@ -42,6 +42,8 @@ public class Test {
 
 		cola = new Cola<Persona>();
 
+		System.out.println(cola);
+		
 		cola.cargar("cola.file");
 
 		System.out.println(cola);
